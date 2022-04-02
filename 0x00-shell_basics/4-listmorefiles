@@ -2,3 +2,5 @@
 ls -l
 #!/bin/bash
 ls -la
+#!/bin/bash
+ls -la
