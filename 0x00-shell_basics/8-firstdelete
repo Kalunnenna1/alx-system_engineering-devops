@@ -3,3 +3,7 @@ rm /tmp/betty/my_first_directory
 #!/bin/bash
 touch /tmp/betty/my_first_directory
 rm /tmp/betty/my_first_directory
+#!/bin/bash
+rm /tmp/betty /tmp/my_first_directory
+#!/bin/bash
+rm /tmp/betty /tmp/my_first_directory
