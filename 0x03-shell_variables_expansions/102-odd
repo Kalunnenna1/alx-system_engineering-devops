@@ -1,0 +1,2 @@
+#!/bin/bashg
+paste -d " " - - | cut -d " " -f 1
