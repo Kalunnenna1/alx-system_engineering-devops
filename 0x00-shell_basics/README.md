@@ -1,1 +1,1 @@
-# Script prints working directory
+My readme file for advance shell basics task
