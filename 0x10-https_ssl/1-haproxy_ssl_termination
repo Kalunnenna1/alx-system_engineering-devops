@@ -56,6 +56,6 @@ backend letsencrypt-backend
 # for web app servers
 backend be-neurk.tech
         balance roundrobin
-        server 45784-web-01 3.236.125.95:80 check
-        server 45784-web-02 100.26.120.89:80 check
+        server 45784-web-01 54.82.215.111 check
+        server 45784-web-02 54.144.249.8 check
 
